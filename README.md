@@ -18,8 +18,11 @@ This repository includes code from the following courses:
 ```
 📦 KLE-Tech-Course-Codes
  ┣ 📂 NLP
+ ┣ 📂 CN
+
 
  ┣ 📜 README.md
+
 ```
 
 Each folder contains corresponding code implementations, assignments, and project files.  
