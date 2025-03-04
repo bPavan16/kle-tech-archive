@@ -1,4 +1,4 @@
-# 📚 KLE Tech University - Course Code Archive  
+# 📚 KLE Tech University - Course Archive  
 
 Welcome to my personal archive of code files from the courses I have taken at **KLE Technological University**. This repository contains implementations, assignments, and projects across various subjects, serving as a reference for learning and future projects.  
 
@@ -30,7 +30,7 @@ Each folder contains corresponding code implementations, assignments, and projec
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/bPavan16/KLE-Tech-Course-Codes.git
+   git clone https://github.com/bPavan16/kle-tech-archive.git
    ```
 2. **Navigate to the relevant course folder**  
 3. **Run the code** following instructions provided in individual files.  
